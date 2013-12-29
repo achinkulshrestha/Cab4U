@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.sql.*;
 /**
  *
- * @author ankita
+ * @author Achin K
  */
 public class ValidatingLogin extends HttpServlet {
 ServletContext context=null;

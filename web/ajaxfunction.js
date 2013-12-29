@@ -145,7 +145,7 @@ function show_grid(str)
 }
 function allocate()
 {
-    alert("achin");
+    alert("Achin K");
     xmlHttp=CreateXmlHttpObject()
     //alert(document.getElementById("name").valueOf());
     if (xmlHttp==null)
